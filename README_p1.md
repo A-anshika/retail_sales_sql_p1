@@ -213,4 +213,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 **LINKEDIN : (www.linkedin.com/in/anshika-singh-26870a269)
 
-Thank you for your support, and I look forward to connecting with you!
+Thank you
